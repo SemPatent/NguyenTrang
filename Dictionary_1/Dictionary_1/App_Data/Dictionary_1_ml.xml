@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<MdbTranslationStore xmlns="http://tempuri.org/MdbTranslationStore.xsd">
+  <Languages>
+    <LanguageID>1033</LanguageID>
+    <LanguageName>English (United States)</LanguageName>
+    <IetfLanguageTag>en-US</IetfLanguageTag>
+    <ColumnNumber>0</ColumnNumber>
+  </Languages>
+  <Languages>
+    <LanguageID>1042</LanguageID>
+    <LanguageName>Korean (Korea)</LanguageName>
+    <IetfLanguageTag>ko-KR</IetfLanguageTag>
+    <ColumnNumber>1</ColumnNumber>
+  </Languages>
+  <GeneralAttributes>
+    <Name>StatusHash</Name>
+    <TextValue>Bf5AV1MWbxJVWefJrFWGVPEHx+k=</TextValue>
+    <NumValue>0</NumValue>
+  </GeneralAttributes>
+  <GeneralAttributes>
+    <Name>XmlDatabaseVersion</Name>
+    <TextValue>1</TextValue>
+    <NumValue>1</NumValue>
+  </GeneralAttributes>
+  <GeneralAttributes>
+    <Name>Dirty</Name>
+    <TextValue>False</TextValue>
+    <NumValue>0</NumValue>
+  </GeneralAttributes>
+  <GeneralAttributes>
+    <Name>OriginalLanguageIetfTag</Name>
+    <TextValue>en-US</TextValue>
+    <NumValue>0</NumValue>
+  </GeneralAttributes>
+</MdbTranslationStore>
